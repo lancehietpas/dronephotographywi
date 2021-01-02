@@ -16,7 +16,7 @@ const Header = ({ data }) => (
           <div className="about-details">
             <span className="name">My Name is {data.name}.</span>
             <h2 className="sub-position">
-              I'm a Professional {data.designation}.
+              I'm a Professional Photographer.
             </h2>
             <div
               dangerouslySetInnerHTML={{
