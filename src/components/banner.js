@@ -14,7 +14,7 @@ export default class Banner extends Component {
         <div className="container">
           <div className="banner-details">
             <span>Hello...</span>
-            <h1>I'm {data.designation}.</h1>
+            <h1>I'm Matt Sloniker.</h1>
             <ul className="sub-data">
               {data.bannerList.map((item, index) => {
                 return <li key={index}>{item}</li>;
@@ -49,14 +49,6 @@ export default class Banner extends Component {
                 <a
                   className="fab fa-linkedin-in"
                   href={data.linkdin}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                ></a>
-              </li>
-              <li>
-                <a
-                  className="fab fa-github"
-                  href={data.github}
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
