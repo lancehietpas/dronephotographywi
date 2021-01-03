@@ -42,6 +42,12 @@ const Header = ({ data }) => (
                   <a href={`mailto:${data.gmail}`}>{data.gmail}</a>
                 </p>
               </li>
+              <li>
+                <strong>Phone</strong>
+                <p>
+                (608) 473-5120
+                </p>
+              </li>
             </ul>
             <div className="socials">
               <ul>
