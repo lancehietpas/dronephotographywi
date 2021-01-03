@@ -33,9 +33,9 @@ export default class blogPost extends Component {
         <SEO
           title={data.title}
           keywords={[
-            `Rohit Gupta`,
-            `Frontend Developer`,
-            `Developer`,
+            `Matt Sloniker`,
+            `Photographer`,
+            `Drone Photographer`,
             `${data.title}`
           ]}
         />
