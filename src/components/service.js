@@ -25,11 +25,6 @@ export default class service extends Component {
               );
             })}
           </div>
-          <div className="see-more">
-            <Link to="/blogs">
-              <span>Book Now</span>
-            </Link>
-          </div>
         </div>
       </div>
     );
