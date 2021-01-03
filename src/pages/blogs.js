@@ -14,7 +14,7 @@ export default class Blogs extends Component {
       <Layout>
         <SEO
           title="Blogs"
-          keywords={[`Rohit Gupta`, `Frontend Developer`, `Developer`, `Blogs`]}
+          keywords={[`Matt Sloniker`, `Photographer`, `Drone Photographer`, `Madison` , 'Arieal Drone Photographer']}
         />
         <div className="site-container blogs-page" id="Blogs">
           <div className="container">
