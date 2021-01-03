@@ -24,8 +24,14 @@ export default class service extends Component {
                 </div>
               );
             })}
+
           </div>
         </div>
+        <div className="see-more">
+            <Link to="/blogs">
+              <span>More Blogs</span>
+            </Link>
+          </div>
       </div>
     );
   }
