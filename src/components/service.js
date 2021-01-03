@@ -6,6 +6,7 @@ export default class service extends Component {
     return (
       <div className="service section" id="Service">
         <div className="container">
+        <div className="see-more">
           <div className="section-head">
             <h2>Service</h2>
           </div>
@@ -24,15 +25,15 @@ export default class service extends Component {
                 </div>
               );
             })}
-
+            
           </div>
-        </div>
-        <div className="see-more">
-            <Link to="/blogs">
+          <Link to="/blogs">
               <span>More Blogs</span>
             </Link>
-          </div>
+        </div>
       </div>
+      </div>
+
     );
   }
 }
