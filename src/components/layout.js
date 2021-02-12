@@ -7,7 +7,11 @@ import Header from "./header";
 import Footer from "./footer";
 
 import "../css/style.css";
-import "../css/font-awesome.css";
+//import "../css/font-awesome.css";
+
+import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css";
+import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/fontawesome.min.css";
+import
 
 if (typeof window !== "undefined") {
   require("smooth-scroll")('a[href*="#"]');
