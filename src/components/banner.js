@@ -60,6 +60,7 @@ export default class Banner extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
+                </li>
                <li>
                 <a
                   className="fab fa-tiktok"
@@ -67,7 +68,6 @@ export default class Banner extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
-              </li>
               </li>
             </ul>
           </div>
