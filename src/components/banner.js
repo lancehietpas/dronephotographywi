@@ -60,6 +60,14 @@ export default class Banner extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
+               <li>
+                <a
+                  className="fab fa-tiktok"
+                  href="https://vm.tiktok.com/ZMeehDy4p/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                ></a>
+              </li>
               </li>
             </ul>
           </div>
