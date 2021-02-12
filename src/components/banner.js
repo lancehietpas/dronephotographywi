@@ -29,10 +29,18 @@ export default class Banner extends Component {
                   rel="noopener noreferrer"
                 ></a>
               </li>
-              <li>
+               <li>
                 <a
                   className="fab fa-twitter"
                   href={data.twitter}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-tiktok"
+                  href="https://vm.tiktok.com/ZMeehDy4p/"
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
