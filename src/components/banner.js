@@ -39,7 +39,7 @@ export default class Banner extends Component {
               </li>
               <li>
                 <a
-                  className="fab fa-tiktok"
+                  className="fab fa-pinterest-p"
                   href="https://vm.tiktok.com/ZMeehDy4p/"
                   target="_blank"
                   rel="noopener noreferrer"
