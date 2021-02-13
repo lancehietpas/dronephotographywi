@@ -2793,7 +2793,6 @@ readers do not read off random characters that represent icons */
 .fa-houzz:before {
   content: "\f27c";
 }
-}
 
 .fa-hooli:before {
   content: "\f427";
