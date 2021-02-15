@@ -3,7 +3,7 @@ import React from "react";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
-const NotFoundPage = () => (
+const AboutUsPage = () => (
   <Layout>
     <SEO title="About Us" />
     <div className="site-container not-found-page">
