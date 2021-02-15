@@ -39,7 +39,7 @@ export default class blogPost extends Component {
             `${data.title}`
           ]}
         />
-        <div className="site-container blog-post">
+        <div className="site-container about-post">
           <div className="container">
             {data.featureImage ? (
               <Img
@@ -53,7 +53,7 @@ export default class blogPost extends Component {
             )}
 
             <div className="details">
-              <h1 className="title">{data.title}</h1>
+              <h1 className="title">About Us</h1>
               <span className="date">
                 <i className="fas fa-calendar-alt"></i>{" "}
                 {moment(data.createdAt).format("LL")}
